@@ -9,13 +9,13 @@ Sou um entusiasta da tecnologia explorando o mundo do desenvolvimento de softwar
 <div align="center">
   <h3>📊 Stats</h3>
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guillcodes&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=6e5494&text_color=fff&border_radius=3&border_color=30363d&icon_color=6e5494&theme=dark" 
+    src="https://github-readme-stats.vercel.app/api?username=guillcodes&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=6e5494&text_color=ffffff&border_radius=3&border_color=30363d&icon_color=6e5494&theme=dark" 
     alt="GitHub stats"
   >
   <br><br>
   <a href="https://github.com/guillcodes/github-readme-stats">
     <img 
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guillcodes&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=6e5494&hide=Hack&bg_color=000&text_color=8b8b8b&border_radius=3&border_color=30363d" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillcodes&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=6e5494&hide=Hack&bg_color=000000&text_color=8b8b8b&border_radius=3&border_color=30363d" 
       alt="Most Used Languages"
     >
   </a>
@@ -48,4 +48,3 @@ Sou um entusiasta da tecnologia explorando o mundo do desenvolvimento de softwar
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guillcodes/guillcodes/output/github-contribution-grid-snake.svg">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/guillcodes/guillcodes/output/github-contribution-grid-snake.svg">
 </picture>
-
