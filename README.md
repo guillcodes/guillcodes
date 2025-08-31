@@ -83,3 +83,13 @@ Currently Learning:
 ![Views](https://komarev.com/ghpvc/?username=guillcodes&color=58a6ff&style=flat-square&label=visitors)
 
 </div>
+
+<div align="center">
+
+![Snake](https://raw.githubusercontent.com/guillcodes/guillcodes/output/github-contribution-grid-snake-dark.svg)
+
+**`"Code is poetry written in logic"`**
+
+![Views](https://komarev.com/ghpvc/?username=guillcodes&color=58a6ff&style=flat-square&label=visitors)
+
+</div>
